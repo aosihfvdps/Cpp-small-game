@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1649593526 source:d:\users\giorno\documents\c++\linked_list_5\main.cpp
-	<iostream>
-	<stdlib.h>
-	<time.h>
-	<windows.h>
-	<conio.h>
-
