@@ -1,0 +1,1 @@
+## This is a mistake that I made. I made the fireball delete itself but not notify the firball monster, therefore, the pointer of the monster would still be pointing an empty thing, which caused error.

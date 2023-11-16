@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1655320411 source:d:\users\giorno\documents\c++\test0516_2\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<time.h>
+

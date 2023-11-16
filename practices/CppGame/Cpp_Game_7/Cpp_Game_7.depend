@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649781154 source:d:\users\giorno\documents\c++\cpp_game_7\main.cpp
+	<iostream>
+	<time.h>
+	<string>
+
+1649781154 source:d:\users\giorno\documents\c++\cppgame\cpp_game_7\main.cpp
+	<iostream>
+	<time.h>
+	<string>
+
