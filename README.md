@@ -1,5 +1,7 @@
 # C++ learning journey
 
+![](images/1722623564549.gif)
+
 ### TL;DR:
 * [Small PACMAN-like game (including my teammates' code)](/Final%20presentation/final_exam_Combined/main.cpp)
 * [With only my part](Final%20presentation/Personal%20code/main.cpp)
